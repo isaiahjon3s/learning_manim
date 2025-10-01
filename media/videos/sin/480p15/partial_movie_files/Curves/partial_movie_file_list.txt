@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Curves/1185818338_3162820171_223132457.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Curves/624642324_4166391171_2042497708.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Curves/624642324_700581537_4216277651.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Curves/624642324_2450202600_1314751865.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Curves/624642324_2834709167_2148386027.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Curves/624642324_1064380321_2873729818.mp4'

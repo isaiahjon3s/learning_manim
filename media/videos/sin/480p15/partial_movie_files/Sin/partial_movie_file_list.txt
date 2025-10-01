@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Sin/1185818338_3162820171_223132457.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Sin/624642324_2297573555_2042497708.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Sin/624642324_2834709167_718644729.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sin/480p15/partial_movie_files/Sin/624642324_1738428203_2873729818.mp4'
