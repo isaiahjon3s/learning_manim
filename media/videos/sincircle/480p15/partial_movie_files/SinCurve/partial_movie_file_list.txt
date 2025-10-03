@@ -1,5 +1,7 @@
 # This file is used internally by FFMPEG.
-file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/1185818338_814362243_223132457.mp4'
-file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/624642324_2601085733_3137163283.mp4'
-file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/624642324_450949731_4151553470.mp4'
-file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/624642324_1739943170_381944084.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/1185818338_2058675718_223132457.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/624642324_4169396198_1788537729.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/624642324_450949731_232896824.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/624642324_4245551023_2799181042.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/624642324_2834709167_4011812747.mp4'
+file 'file:/Users/isaiahjones/Learning_manim/media/videos/sincircle/480p15/partial_movie_files/SinCurve/624642324_3955233679_3377531447.mp4'
